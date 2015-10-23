@@ -535,7 +535,7 @@ class TodayViewController: UIViewController, NCWidgetProviding {
                                 
                                 
                                 
-                             //   Order_label.text = "Schedule : " + text;
+                                Order_label.text = "Schedule : " + text;
                                
                                 break;
 
